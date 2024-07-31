@@ -3,7 +3,7 @@
 ![Docker](https://github.com/jenkinsci/jenkinsfile-runner-github-actions/workflows/Docker/badge.svg)
 [![GitHubActions](https://img.shields.io/badge/listed%20on-GitHubActions-blue.svg)](https://github-actions.netlify.com/jenkins-single-shot)
 
-This is a POC how to run _Jenkinsfiles_ inside [GitHub Actions](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) - [GitHub's built-in CI/CD](https://github.com/features/actions) using embedded [Jenkins Single-shot masters](https://schd.ws/hosted_files/devopsworldjenkinsworld2018/8f/DWJW2018%20-%20A%20Cloud%20Native%20Jenkins.pdf).
+This is a POC how to run _Jenkinsfiles_ inside [GitHub actions](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) - [GitHub's built-in CI/CD](https://github.com/features/actions) using embedded [Jenkins Single-shot masters](https://schd.ws/hosted_files/devopsworldjenkinsworld2018/8f/DWJW2018%20-%20A%20Cloud%20Native%20Jenkins.pdf).
 
 ![image](https://user-images.githubusercontent.com/1872314/62877764-0ca51e00-bd28-11e9-9f6e-afb3ee77c4f9.png)
 
